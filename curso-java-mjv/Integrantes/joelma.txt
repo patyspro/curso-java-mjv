@@ -3,3 +3,5 @@ Email: joelma.izaltina@gmail.com
 Sobre: Tenho 24 anos iniciando minha carreira em engenharia de software
 
 Pergunta de Dayane para Joelma: O que te motivou a entrar na área de tecnologia?
+
+Pergunta de Tatiane para Joelma: Você tem algum aspecto favorito em programação? Pode ser uma stack, uma iniciativa ou inovação de que mais goste.
