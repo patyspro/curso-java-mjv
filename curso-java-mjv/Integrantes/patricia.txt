@@ -7,3 +7,4 @@ Sobre: Estudante de tecnologia, adoro programar em Java/ Kotlin.
 
 github: https://github.com/patyspro
 
+Pergunta de Cássia para Patrícia: O que te fez ir para programação?

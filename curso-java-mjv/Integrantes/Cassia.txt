@@ -4,3 +4,7 @@ Sobre: Tenho 22 anos e estou em transição de carreira.
 
 Pergunta realizada por Patricia : Qual está sendo o maior desafio 
 de sua transição de carreira?
+
+Resposta de Cássia para Patrícia: Meu maior desafio está sendo aprender 
+com excelência as linguagens de programação e conseguir o primeiro emprego
+na área.
