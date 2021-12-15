@@ -1,6 +1,9 @@
 Nome: Cássia Dos Reis Lima
 Email: cassiadosreislima@gmail.com
 Sobre: Tenho 22 anos e estou em transição de carreira.
+<<<<<<< HEAD:curso-java-mjv/Integrantes/Cassia.txt.txt
 
 Pergunta realizada por Patricia : Qual está sendo o maior desafio 
 de sua transição de carreira?
+=======
+>>>>>>> 2630a625b8232d4ba0cab97d9bf74e9bdddc024a:curso-java-mjv/Integrantes/Cassia.txt
