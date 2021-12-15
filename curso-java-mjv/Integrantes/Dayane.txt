@@ -3,3 +3,4 @@ Email: sistemas12day@gmail.com
 Sobre: Futura Dev Java
 
 Pergunta de Cássia para Dayane: O que te fez ir para programação?
+Resposta de Dayane para Cássia: Foi meio aleatório, me inscrevi no curso de Sistemas de Informação como segunda opção (a primeira era Enfermagem),acabou que passei nos dois cursos mas, pra seguir com Enfermagem eu teria que mudar de cidade. Acabei optando por Sistemas por conta disso, mesmo não sabendo nada sobre o curso e nem ter tido contato frequente com um computador.E assim entrei no mundo da programação.
