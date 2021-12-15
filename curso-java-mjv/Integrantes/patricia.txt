@@ -8,3 +8,5 @@ Sobre: Estudante de tecnologia, adoro programar em Java/ Kotlin.
 github: https://github.com/patyspro
 
 Pergunta de Cássia para Patrícia: O que te fez ir para programação?
+Eu sempre gostei de tecnologia e estar por trás no desenvolvimento 
+de um sistema de negócios é o que mais me fascinou a ir para essa área.
