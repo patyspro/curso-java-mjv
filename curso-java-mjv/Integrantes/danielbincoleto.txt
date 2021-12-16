@@ -3,6 +3,7 @@ dnbincoleto@gmail.com
 Sou universitário e amo gatos
 
 Pegunta de Patricia para Daniel: Você está estudando há quanto tempo programação?
-
+R: Há cerca de 6 meses comecei a estudar, com C e Python.
 
 Pergunta de Camila para Daniel: Quais as 3 coisas que você mais gosta de fazer no tempo livre?
+R: Jogar videogames, passear sozinho ou com amigos para museus, parques... e assistir vídeos no ytb principalmente de jogos e divulgação científica.
