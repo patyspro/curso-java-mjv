@@ -4,3 +4,4 @@ E-mail: henriflu@hotmail.com
 Saí da engenharia civil para análise e desenvolvimento de sistemas e estou cada vez mais apaixonado pela programação.
 
 Pergunta de Patricia para Henrique: Qual linguagem de programação você mais se identifica?
+Resposta: Atualmente tenho mais afinidade com HTML5 e VBA. Mas Java é uma linguagem que sempre me encantou e meu desafio é aprender mais sobre.
