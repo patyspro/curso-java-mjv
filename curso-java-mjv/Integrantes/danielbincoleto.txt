@@ -1,6 +1,6 @@
 Daniel Bincoleto
 dnbincoleto@gmail.com
-Sou universitário e amo gatos
+Estudo Ciência e Tecnologia, tenho 21 anos e moro em Santo André-SP. Quero ser programador e virar um nômade digital, bem como participar de projetos open source com impacto social pois acredito  que se cada pessoa disponibiliar um pouco do seu tempo para ajudar o outro, o mundo pode ser absurdamente melhor.
 
 Pegunta de Patricia para Daniel: Você está estudando há quanto tempo programação?
 R: Há cerca de 6 meses comecei a estudar, com C e Python.
