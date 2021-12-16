@@ -9,3 +9,6 @@ Resposta: Atualmente tenho mais afinidade com HTML5 e VBA. Mas Java é uma lingu
 
 Pergunta realizada por Juliana: o que gosta de fazer nas horas livre?
 Resposta: Gosto de correr, subir montanhas, asssitir futebol, etc.
+
+
+Pergunta de Arthur para Henrique: já que está fazendo análise e desenvolvimento de sistemas você prefere ser um desenvolvedor ou um analista?
