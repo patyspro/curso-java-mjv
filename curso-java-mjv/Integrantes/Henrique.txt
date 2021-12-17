@@ -12,3 +12,4 @@ Resposta: Gosto de correr, subir montanhas, asssitir futebol, etc.
 
 
 Pergunta de Arthur para Henrique: já que está fazendo análise e desenvolvimento de sistemas você prefere ser um desenvolvedor ou um analista?
+Resposta: Certamente um desenvolvedor. 
