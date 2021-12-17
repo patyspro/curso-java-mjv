@@ -1,0 +1,43 @@
+programa {
+	funcao inicio() {
+
+        real saldoAtual = 10
+        real valorSolicitado = 0
+        real chequeEspecial= 20
+        caracter resposta = '0'
+        
+        escreva("informe o valor desejado \n")
+        
+        leia(valorSolicitado)
+        
+        se(valorSolicitado > saldoAtual){
+            escreva("saldo insuficiente!\n Deseja usar o cheque Especial?")
+                    leia(resposta)
+            se (resposta =='s'){
+                saldoAtual= saldoAtual + chequeEspecial
+              se(valorSolicitado <= saldoAtual){ 
+                  saldoAtual= saldoAtual - valorSolicitado
+                   escreva("Seu novo saldo é ", saldoAtual)
+                  saldoAtual= saldoAtual- chequeEspecial
+                   escreva("Seu novo saldo descontando o cheque especial é: ", saldoAtual)
+            }
+            senao {
+                 escreva("saldo insuficiente!\n")
+            }
+            }
+           
+            senao {
+                 escreva("operação finalizada!\n")
+            }
+        
+        }
+        
+      
+        senao{
+        
+            saldoAtual = saldoAtual - valorSolicitado
+            escreva("saque realizado com sucesso!")        
+        }
+          escreva("Seu novo saldo é ", saldoAtual)
+}
+}
